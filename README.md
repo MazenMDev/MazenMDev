@@ -1,14 +1,14 @@
 <!-- Bio Section -->
 <p style="text-align: center; font-size: 1.2em; line-height: 1.8;">
-    🚀 <strong>Computer Science Student | Web & Game Development Enthusiast</strong><br>
-    🌱 Currently learning Full-Stack Web Development, C++, and Unreal Engine<br>
-    💻 Passionate about Web Dev, Game Dev, and Competitive Programming<br>
-    📌 Check out my projects below and follow my journey!<br><br>
+🚀 <strong>Computer Science Student | Web & Game Development Enthusiast</strong><br>
+🌱 Currently learning Full-Stack Web Development, C++, and Unreal Engine<br>
+💻 Passionate about Web Dev, Game Dev, and Competitive Programming<br>
+📌 Check out my projects below and follow my journey!<br><br>
   
-    🔭 Currently focusing on Web Development<br>
-    🌱 Currently learning Front-End technologies<br>
-    👯 Open to collaborations on exciting projects!
-  </p>
+🔭 Currently focusing on Web Development<br>
+🌱 Currently learning Front-End technologies<br>
+👯 Open to collaborations on exciting projects!
+</p>
   
   <!-- Languages & Tools Section -->
   <h2 style="text-align: center; font-size: 1.5em; margin-top: 40px; color: #4CAF50;">🚀 Languages and Tools I Use</h2>
