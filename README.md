@@ -5,9 +5,9 @@
     💻 Passionate about Web Dev, Game Dev, and Competitive Programming<br>
     📌 Check out my projects below and follow my journey!<br><br>
 
-    🔭 Currently focusing on Web Development<br>
-    🌱 Currently learning Front-End technologies<br>
-    👯 Open to collaborations on exciting projects!
+🔭 Currently focusing on Web Development<br>
+🌱 Currently learning Front-End technologies<br>
+👯 Open to collaborations on exciting projects!
     </p>
 
 
