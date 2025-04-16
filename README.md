@@ -1,14 +1,14 @@
-<h1> Hey, I'm Mazen Mahmoud!</h1>
-<p style="text-align: center;">
-    🚀 <strong>Computer Science Student | Web & Game Development Enthusiast</strong><br>
-    🌱 Currently learning Full-Stack Web Development, C++, and Unreal Engine<br>
-    💻 Interested in Web Dev, Game Dev, and Competitive Programming<br>
-    📌 Check out my projects below and follow my journey!<br><br>
-    
-    🔭 I’m currently working on Web Dev<br>
-    🌱 I’m currently learning Front-end<br>
-    👯 I’m looking to collaborate on Projects
-  </p>
+<p>
+  🚀 <strong>Computer Science Student | Web & Game Development Enthusiast</strong><br>
+  🌱 Currently learning Full-Stack Web Development, C++, and Unreal Engine<br>
+  💻 Interested in Web Dev, Game Dev, and Competitive Programming<br>
+  📌 Check out my projects below and follow my journey!<br><br>
+  
+  🔭 I’m currently working on Web Dev<br>
+  🌱 I’m currently learning Front-end<br>
+  👯 I’m looking to collaborate on Projects
+</p>
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
