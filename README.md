@@ -34,7 +34,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MazenMDev)
+![](https://github-trophies.vercel.app/?username=MazenMDev)
 
 ---
 
