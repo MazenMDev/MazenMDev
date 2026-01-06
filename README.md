@@ -26,17 +26,26 @@
 ---
 
 ## GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=MazenMDev&theme=aura&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MazenMDev&theme=aura&hide_border=false)](https://git.io/streak-stats)
 
 ---
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MazenMDev&show_icons=true&theme=nightowl)
+## <img src="https://img.icons8.com/fluency/25/000000/statistics.png"/> GitHub Statistics
+
+<div align="center">
+  <a href="https://github.com/MazenMDev">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MazenMDev&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MazenMDev&layout=compact&langs_count=8&theme=onedark"/>
+  </a>
+</div>
 
 ---
 
-## GitHub Trophies
-[![Trophies](https://github-profile-trophy.vercel.app/?username=MazenMDev&theme=aura)](https://github.com/ryo-ma/github-profile-trophy)
+## <img src="https://img.icons8.com/fluency/25/000000/trophy.png"/> GitHub Trophies
+
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=MazenMDev&theme=onedark" alt="GitHub Trophies"/>
+</div>
 
 ---
 
